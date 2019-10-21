@@ -61,7 +61,7 @@
             this.tbNombre.Location = new System.Drawing.Point(32, 48);
             this.tbNombre.Name = "tbNombre";
             this.tbNombre.Size = new System.Drawing.Size(334, 20);
-            this.tbNombre.TabIndex = 0;
+            this.tbNombre.TabIndex = 1;
             // 
             // laNombre
             // 
@@ -86,21 +86,21 @@
             this.tbDireccion.Location = new System.Drawing.Point(32, 121);
             this.tbDireccion.Name = "tbDireccion";
             this.tbDireccion.Size = new System.Drawing.Size(181, 20);
-            this.tbDireccion.TabIndex = 0;
+            this.tbDireccion.TabIndex = 2;
             // 
             // tbTelefono
             // 
             this.tbTelefono.Location = new System.Drawing.Point(32, 195);
             this.tbTelefono.Name = "tbTelefono";
             this.tbTelefono.Size = new System.Drawing.Size(100, 20);
-            this.tbTelefono.TabIndex = 0;
+            this.tbTelefono.TabIndex = 5;
             // 
             // tbDni
             // 
             this.tbDni.Location = new System.Drawing.Point(32, 276);
             this.tbDni.Name = "tbDni";
             this.tbDni.Size = new System.Drawing.Size(100, 20);
-            this.tbDni.TabIndex = 0;
+            this.tbDni.TabIndex = 8;
             this.tbDni.Leave += new System.EventHandler(this.tbDni_Leave);
             // 
             // laDireccion
@@ -135,21 +135,21 @@
             this.tbCodigoPostal.Location = new System.Drawing.Point(393, 121);
             this.tbCodigoPostal.Name = "tbCodigoPostal";
             this.tbCodigoPostal.Size = new System.Drawing.Size(70, 20);
-            this.tbCodigoPostal.TabIndex = 0;
+            this.tbCodigoPostal.TabIndex = 4;
             // 
             // tbLocalidad
             // 
             this.tbLocalidad.Location = new System.Drawing.Point(240, 121);
             this.tbLocalidad.Name = "tbLocalidad";
             this.tbLocalidad.Size = new System.Drawing.Size(126, 20);
-            this.tbLocalidad.TabIndex = 0;
+            this.tbLocalidad.TabIndex = 3;
             // 
             // tbEmail
             // 
             this.tbEmail.Location = new System.Drawing.Point(240, 195);
             this.tbEmail.Name = "tbEmail";
             this.tbEmail.Size = new System.Drawing.Size(178, 20);
-            this.tbEmail.TabIndex = 0;
+            this.tbEmail.TabIndex = 7;
             this.tbEmail.TextChanged += new System.EventHandler(this.tbEmail_TextChanged);
             this.tbEmail.Leave += new System.EventHandler(this.tbEmail_Leave);
             // 
@@ -159,7 +159,7 @@
             this.tbPassword1.Name = "tbPassword1";
             this.tbPassword1.PasswordChar = '*';
             this.tbPassword1.Size = new System.Drawing.Size(126, 20);
-            this.tbPassword1.TabIndex = 0;
+            this.tbPassword1.TabIndex = 9;
             // 
             // laCodigoPostal
             // 
@@ -203,7 +203,7 @@
             this.tbPassword2.Name = "tbPassword2";
             this.tbPassword2.PasswordChar = '*';
             this.tbPassword2.Size = new System.Drawing.Size(126, 20);
-            this.tbPassword2.TabIndex = 0;
+            this.tbPassword2.TabIndex = 10;
             // 
             // laPassword2
             // 
@@ -237,7 +237,7 @@
             this.btAceptar.Location = new System.Drawing.Point(32, 346);
             this.btAceptar.Name = "btAceptar";
             this.btAceptar.Size = new System.Drawing.Size(75, 23);
-            this.btAceptar.TabIndex = 3;
+            this.btAceptar.TabIndex = 11;
             this.btAceptar.Text = "Aceptar";
             this.btAceptar.UseVisualStyleBackColor = true;
             this.btAceptar.Click += new System.EventHandler(this.btAceptar_Click);
@@ -248,7 +248,7 @@
             this.btCancelar.Location = new System.Drawing.Point(138, 346);
             this.btCancelar.Name = "btCancelar";
             this.btCancelar.Size = new System.Drawing.Size(75, 23);
-            this.btCancelar.TabIndex = 4;
+            this.btCancelar.TabIndex = 12;
             this.btCancelar.Text = "Cancelar";
             this.btCancelar.UseVisualStyleBackColor = true;
             // 
@@ -347,20 +347,20 @@
         private System.Windows.Forms.Label laPassword2;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox tbNombre;
-        private System.Windows.Forms.TextBox tbDireccion;
-        private System.Windows.Forms.TextBox tbLocalidad;
-        private System.Windows.Forms.TextBox tbCodigoPostal;
-        private System.Windows.Forms.TextBox tbTelefono;
-        private System.Windows.Forms.TextBox tbEmail;
-        private System.Windows.Forms.TextBox tbDni;
-        private System.Windows.Forms.TextBox tbPassword1;
-        private System.Windows.Forms.TextBox tbPassword2;
         private System.Windows.Forms.Button btAceptar;
         private System.Windows.Forms.Button btCancelar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        public System.Windows.Forms.TextBox tbNombre;
+        public System.Windows.Forms.TextBox tbDireccion;
+        public System.Windows.Forms.TextBox tbLocalidad;
+        public System.Windows.Forms.TextBox tbCodigoPostal;
+        public System.Windows.Forms.TextBox tbTelefono;
+        public System.Windows.Forms.TextBox tbEmail;
+        public System.Windows.Forms.TextBox tbDni;
+        public System.Windows.Forms.TextBox tbPassword1;
+        public System.Windows.Forms.TextBox tbPassword2;
     }
 }

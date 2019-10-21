@@ -86,7 +86,23 @@ namespace ediciondatos {
             VentanaIntroduccionDatos = new fmIntroduccionDatos();
             VentanaIntroduccionDatos.ShowDialog();
 
+
+            laNombre.Text = VentanaIntroduccionDatos.tbNombre.Text;
+            laDireccion.Text = VentanaIntroduccionDatos.tbDireccion.Text;
+            laLocalidad.Text = VentanaIntroduccionDatos.tbLocalidad.Text;
+            laTelefono.Text = VentanaIntroduccionDatos.tbTelefono.Text;
+            laEmail.Text = VentanaIntroduccionDatos.tbEmail.Text;
+            laCodigoPostal.Text = VentanaIntroduccionDatos.tbCodigoPostal.Text;
+            laDNICIF.Text = VentanaIntroduccionDatos.tbDni.Text;
+
+
+            pnDatos.Visible = true;
+
+
             VentanaIntroduccionDatos.Dispose();
+
+            
+
         }
     }
 }

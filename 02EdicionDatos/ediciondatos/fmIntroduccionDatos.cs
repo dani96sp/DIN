@@ -14,7 +14,7 @@ namespace ediciondatos {
             InitializeComponent();
         }
 
-        
+
         public bool validacif(string cif) {
             int Suma = 0;
             int Control;
@@ -60,8 +60,11 @@ namespace ediciondatos {
 
         private void btAceptar_Click(object sender, EventArgs e) {
             // Validamos los campos
-
-
+            bool validado = true;
+            if (!validado) {
+                return;
+            }
+            
 
 
             DialogResult = DialogResult.OK;
