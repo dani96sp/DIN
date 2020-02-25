@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\bin\Debug\NuevoExamen2.exe.config
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\bin\Debug\NuevoExamen2.exe
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\bin\Debug\NuevoExamen2.pdb
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.Properties.Resources.resources
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.exe
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.pdb
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.fmAcercade.resources
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.fmProveedor.resources
+C:\Users\Dani\source\repos\NuevoExamen2\NuevoExamen2\obj\Debug\NuevoExamen2.fmExamen.resources
