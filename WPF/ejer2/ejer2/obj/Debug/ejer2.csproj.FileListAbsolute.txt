@@ -1,0 +1,28 @@
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\bin\Debug\ejer2.exe.config
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\bin\Debug\ejer2.exe
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\bin\Debug\ejer2.pdb
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.csprojAssemblyReference.cache
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\MainWindow.g.cs
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\App.g.cs
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2_MarkupCompile.cache
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2_MarkupCompile.lref
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\MainWindow.baml
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.g.resources
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.Properties.Resources.resources
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.csproj.GenerateResource.cache
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.exe
+F:\DAM\DIN - Desarrollo de Interfaces\Ejercicios Csharp\WPF\ejer2\ejer2\ejer2\obj\Debug\ejer2.pdb
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Debug\ejer2.exe.config
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Debug\ejer2.exe
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Debug\ejer2.pdb
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\MainWindow.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\App.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2_MarkupCompile.cache
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2_MarkupCompile.lref
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\MainWindow.baml
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.g.resources
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.exe
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Debug\ejer2.pdb

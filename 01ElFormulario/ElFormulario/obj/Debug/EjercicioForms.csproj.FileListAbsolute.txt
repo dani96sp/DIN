@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\bin\Debug\EjercicioForms.exe.config
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\bin\Debug\EjercicioForms.exe
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\bin\Debug\EjercicioForms.pdb
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.fmAcercade.resources
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.fmElformulario.resources
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.exe
+C:\Users\Dani\source\repos\DIN\EjercicioForms\EjercicioForms\obj\Debug\EjercicioForms.pdb

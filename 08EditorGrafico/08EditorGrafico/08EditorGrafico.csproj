@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A40E220A-A557-4841-8AF2-E3A7FF6E728D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_08EditorGrafico</RootNamespace>
+    <AssemblyName>08EditorGrafico</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fmAcercade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAcercade.Designer.cs">
+      <DependentUpon>fmAcercade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmEdiGrafico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmEdiGrafico.Designer.cs">
+      <DependentUpon>fmEdiGrafico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmTamanyo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTamanyo.Designer.cs">
+      <DependentUpon>fmTamanyo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmTexto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTexto.Designer.cs">
+      <DependentUpon>fmTexto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmAcercade.resx">
+      <DependentUpon>fmAcercade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmEdiGrafico.resx">
+      <DependentUpon>fmEdiGrafico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTamanyo.resx">
+      <DependentUpon>fmTamanyo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTexto.resx">
+      <DependentUpon>fmTexto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NUEVO.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABRIR.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goma.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorfondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorlapiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brocha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GRoSORES.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seleccion.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FUENTES.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elipse.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangulo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linea.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor51.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grosor6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapizcortoNuevo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applycodechanges_6548_32.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letterform_Asans_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_16xLG.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -44,9 +44,10 @@ namespace _04ArrastarSoltar {
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(342, 148);
+            this.label1.Location = new System.Drawing.Point(456, 182);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(211, 66);
+            this.label1.Size = new System.Drawing.Size(269, 84);
             this.label1.TabIndex = 0;
             this.label1.Text = "Versión 1\r\n\r\nFecha: Octubre de 2019";
             // 
@@ -54,19 +55,21 @@ namespace _04ArrastarSoltar {
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(342, 87);
+            this.label2.Location = new System.Drawing.Point(456, 107);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(216, 22);
+            this.label2.Size = new System.Drawing.Size(317, 28);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Proyecto: el Formulario";
+            this.label2.Text = "Proyecto: Arrastrar y Soltar";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(342, 29);
+            this.label3.Location = new System.Drawing.Point(456, 36);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(254, 22);
+            this.label3.Size = new System.Drawing.Size(322, 28);
             this.label3.TabIndex = 0;
             this.label3.Text = "Autor: Daniel Muñoz Chacón";
             // 
@@ -74,19 +77,20 @@ namespace _04ArrastarSoltar {
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(106, 274);
+            this.label4.Location = new System.Drawing.Point(141, 337);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(533, 44);
+            this.label4.Size = new System.Drawing.Size(472, 28);
             this.label4.TabIndex = 0;
-            this.label4.Text = "Proyecto para practicar distintos controles en el formulario.\r\nSus propiedades y " +
-    "eventos";
+            this.label4.Text = "Proyecto para practicar arrastrar y soltar.";
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(24, 29);
+            this.pictureBox1.Location = new System.Drawing.Point(32, 36);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(271, 215);
+            this.pictureBox1.Size = new System.Drawing.Size(361, 265);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -96,9 +100,10 @@ namespace _04ArrastarSoltar {
             // 
             this.btAceptar.AutoSize = true;
             this.btAceptar.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold);
-            this.btAceptar.Location = new System.Drawing.Point(512, 321);
+            this.btAceptar.Location = new System.Drawing.Point(683, 395);
+            this.btAceptar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btAceptar.Name = "btAceptar";
-            this.btAceptar.Size = new System.Drawing.Size(127, 35);
+            this.btAceptar.Size = new System.Drawing.Size(169, 43);
             this.btAceptar.TabIndex = 2;
             this.btAceptar.Text = "Aceptar";
             this.btAceptar.UseVisualStyleBackColor = true;
@@ -106,9 +111,9 @@ namespace _04ArrastarSoltar {
             // 
             // fmAcercade
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(742, 374);
+            this.ClientSize = new System.Drawing.Size(989, 460);
             this.Controls.Add(this.btAceptar);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label4);
@@ -116,10 +121,11 @@ namespace _04ArrastarSoltar {
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "fmAcercade";
-            this.Text = "fmAcercade";
+            this.Text = "Acerca de";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

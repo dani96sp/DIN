@@ -1,0 +1,35 @@
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\bin\Debug\06Editor.exe.config
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\bin\Debug\06Editor.exe
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\bin\Debug\06Editor.pdb
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\06Editor.csprojAssemblyReference.cache
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\_06Editor.fmEditor.resources
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\_06Editor.Properties.Resources.resources
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\06Editor.csproj.GenerateResource.cache
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\06Editor.csproj.CoreCompileInputs.cache
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\06Editor.exe
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\06Editor.pdb
+D:\Dropbox\2º DAM\Desarrollo de Interfaces\Practicas\06Editor\obj\Debug\_06Editor.fmPresentacion.resources
+C:\Users\Dani\source\repos\06editor\06editor\bin\Debug\06Editor.exe.config
+C:\Users\Dani\source\repos\06editor\06editor\bin\Debug\06Editor.exe
+C:\Users\Dani\source\repos\06editor\06editor\bin\Debug\06Editor.pdb
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\06editor.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\_06Editor.fmEditor.resources
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\_06Editor.fmPresentacion.resources
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\_06Editor.Properties.Resources.resources
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\06editor.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\06Editor.exe
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\06Editor.pdb
+C:\Users\Dani\source\repos\06editor\06editor\obj\Debug\_06Editor.fmDatos.resources
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\bin\Debug\06Editor.exe.config
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\bin\Debug\06Editor.exe
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\bin\Debug\06Editor.pdb
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\06editor.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\_06Editor.fmDatos.resources
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\_06Editor.fmEditor.resources
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\_06Editor.fmPresentacion.resources
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\_06Editor.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\06editor.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\06Editor.exe
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\06Editor.pdb
+C:\Users\Dani\source\repos\DIN\06editor\06Editor\obj\Debug\_06Editor.fmMargenes.resources
+C:\Users\Dani\source\repos\DIN\06editor\06editor\obj\Debug\_06Editor.fmAcercade.resources

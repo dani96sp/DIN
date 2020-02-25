@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\DIN\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Dani\source\repos\DIN\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Dani\source\repos\DIN\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.Examen.resources
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.fmAcercade.resources
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Dani\source\repos\DIN\Examen\Examen\obj\Debug\Examen.pdb

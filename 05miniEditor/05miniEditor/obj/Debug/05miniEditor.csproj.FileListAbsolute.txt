@@ -1,0 +1,20 @@
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\bin\Debug\05MiniEditor.exe.config
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\bin\Debug\05MiniEditor.exe
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\bin\Debug\05MiniEditor.pdb
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\05MiniEditor.csprojAssemblyReference.cache
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\_05MiniEditor.fmMiniEditor.resources
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\_05MiniEditor.Properties.Resources.resources
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\05MiniEditor.csproj.GenerateResource.cache
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\05MiniEditor.csproj.CoreCompileInputs.cache
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\05MiniEditor.exe
+C:\Users\Javie\OneDrive\Desktop\Grado Superior\2DAM\Desarrollo de Interfaces\EjerciciosC#\05MiniEditor\05MiniEditor\obj\Debug\05MiniEditor.pdb
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\bin\Debug\05MiniEditor.exe.config
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\bin\Debug\05MiniEditor.exe
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\bin\Debug\05MiniEditor.pdb
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\05MiniEditor.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\_05MiniEditor.fmMiniEditor.resources
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\_05MiniEditor.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\05MiniEditor.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\05MiniEditor.exe
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\05MiniEditor.pdb
+C:\Users\Dani\source\repos\DIN\05miniEditor\05MiniEditor\obj\Debug\_05MiniEditor.fmAcercade.resources

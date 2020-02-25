@@ -1,0 +1,9 @@
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\08EditorGrafico.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\_08EditorGrafico.EditorGrafico.resources
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\_08EditorGrafico.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\08EditorGrafico.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\bin\Debug\08EditorGrafico.exe.config
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\bin\Debug\08EditorGrafico.exe
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\bin\Debug\08EditorGrafico.pdb
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\08EditorGrafico.exe
+C:\Users\Dani\source\repos\DIN\08EditorGrafico\08EditorGrafico\obj\Debug\08EditorGrafico.pdb

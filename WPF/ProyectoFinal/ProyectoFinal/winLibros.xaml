@@ -1,0 +1,86 @@
+﻿<Window x:Class="ProyectoFinal.winLibros"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoFinal"
+        mc:Ignorable="d"
+        Title="Mantenimiento de Libros" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="lbLibros" Grid.Column="0" Grid.Row="0" Grid.RowSpan="4" Background="LightGray" SelectionChanged="lbLibros_SelectionChanged" />
+
+        <Grid Grid.Column="1" Background="LightGreen" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Background="Moccasin" Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="2*" />
+                </Grid.RowDefinitions>
+
+                <Label x:Name="laCodigo" Content="Codigo:" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbCodigo" Grid.Column="1" Margin="5"      Grid.Row="0" IsReadOnly="True"/>
+                <Label x:Name="laTitulo" Content="*Titulo" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbTitulo" Grid.Column="1" Margin="5"      Grid.Row="1"/>
+                <Label x:Name="laISBN" Content="ISBN" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbISBN" Grid.Column="1" Margin="5"      Grid.Row="2"/>
+                <Label x:Name="laEditorial" Content="Editorial" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbEditorial" Grid.Column="1" Margin="5, 0, 300, 0"      Grid.Row="3" IsReadOnly="True"/>
+                <ComboBox x:Name="cbEditorial" Grid.Column="1" Margin="100, 0, 5, 0"      Grid.Row="3" IsEditable="False" SelectionChanged="cbEditorial_SelectionChanged"/>
+                <Label x:Name="laFechaImpresion" Content="Fecha Impresion" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" />
+                <DatePicker x:Name="tbFechaImpresion" Grid.Column="1" Margin="5, 5, 5, 0"      Grid.Row="4"/>
+                <Label x:Name="laMateria" Content="Materia" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" />
+                <ComboBox x:Name="cbMateria" Grid.Column="1" Margin="5"      Grid.Row="5" IsEditable="True">
+                    <ComboBoxItem Content="" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Novela" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Ficción" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Poesía" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Poesia" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Historia" HorizontalAlignment="Left" Width="380"/>
+                    <ComboBoxItem Content="Teatro" HorizontalAlignment="Left" Width="380"/>
+                </ComboBox>
+                <Label x:Name="laAutor" Content="Autor" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbAutor" Grid.Column="1" Margin="5, 5, 300, 5"      Grid.Row="6" IsReadOnly="True"/>
+                <ComboBox x:Name="cbAutor" Grid.Column="1" Margin="100, 5, 5, 5"      Grid.Row="6" IsEditable="False" SelectionChanged="cbAutor_SelectionChanged"/>
+                <Label x:Name="laObservacion" Content="Observacion" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Left" />
+                <TextBox x:Name="tbObservacion" Grid.Column="1" Margin="5"      Grid.Row="7"/>
+            </Grid>
+            <DockPanel Grid.Row="1" Background="Blue" x:Name="uGridNuevoModificarEliminar">
+                <Button x:Name="btNuevo" Content="Nuevo" Margin="5, 5, 5, 5" Width="180" HorizontalAlignment="Stretch" Click="btNuevo_Click"/>
+                <Button x:Name="btModificar" Content="Modificar" Margin="0, 5, 0, 5" Width="180" HorizontalAlignment="Stretch" Click="btModificar_Click" />
+                <Button x:Name="btEliminar" Content="Eliminar"  Margin="5, 5, 5, 5" HorizontalAlignment="Stretch" Click="btEliminar_Click"/>
+            </DockPanel>
+            <DockPanel Grid.Row="2" Background="Red" x:Name="uGridGuardarModificarCancelar">
+                <Button x:Name="btGuardar" Content="Guardar" Margin="5, 5, 5, 5" Width="180" HorizontalAlignment="Stretch" IsEnabled="False" Click="btGuardar_Click"/>
+                <Button x:Name="btActualizar" Content="Actualizar" Margin="0, 5, 0, 5" Width="180" HorizontalAlignment="Stretch" IsEnabled="False" Click="btActualizar_Click"/>
+                <Button x:Name="btCancelar" Content="Cancelar"  Margin="5, 5, 5, 5" HorizontalAlignment="Stretch" IsEnabled="False" Click="btCancelar_Click"/>
+            </DockPanel>
+            <DockPanel Grid.Row="3" Background="Red">
+                <Button x:Name="btSalir" Content="Salir" Margin="5, 5, 5, 5" Width="180" HorizontalAlignment="Left" Click="btSalir_Click"/>
+            </DockPanel>
+        </Grid>
+    </Grid>
+</Window>

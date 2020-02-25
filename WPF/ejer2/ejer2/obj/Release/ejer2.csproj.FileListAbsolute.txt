@@ -1,0 +1,13 @@
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Release\ejer2.exe.config
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Release\ejer2.exe
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\bin\Release\ejer2.pdb
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\MainWindow.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\App.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2_MarkupCompile.cache
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2_MarkupCompile.lref
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\MainWindow.baml
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2.g.resources
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2.exe
+C:\Users\Dani\source\repos\DIN\WPF\FAUS\ejer2\ejer2\ejer2\obj\Release\ejer2.pdb

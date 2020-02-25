@@ -1,0 +1,43 @@
+﻿<Window x:Class="ProyectoFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoFinal"
+        mc:Ignorable="d"
+        Title="Organizador de Libros" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="16*" />
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="16*" />
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="16*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="20*" />
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <Label x:Name="laTitulo" Content="Libros por Editoriales y Autor" Grid.Column="0" HorizontalAlignment="Center" Grid.ColumnSpan="7" Grid.Row="0" FontSize="20" Background="Azure" VerticalAlignment="Center"/>
+        <Label x:Name="laConsultaModifica" Content="Consulta / Modifica" Grid.Column="0" HorizontalAlignment="Center" Grid.ColumnSpan="7" Grid.Row="2" FontSize="16" Background="Azure" VerticalAlignment="Center"/>
+        <Button x:Name="btLibros" Content="Libros" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="4" FontSize="16" VerticalAlignment="Stretch" Click="btLibros_Click" />
+        <Button x:Name="btLibrosEditorial" Content="Libros/Editorial" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="6" FontSize="16" VerticalAlignment="Stretch" Click="btLibrosEditorial_Click" />
+        <Button x:Name="btEditoriales" Content="Editoriales" Grid.Column="3" HorizontalAlignment="Stretch" Grid.Row="4" FontSize="16" VerticalAlignment="Stretch" Click="btEditoriales_Click" />
+        <Button x:Name="btSalir" Content="Salir" Grid.Column="3" HorizontalAlignment="Stretch" Grid.Row="8" FontSize="16" VerticalAlignment="Stretch" Click="btSalir_Click" />
+        <Button x:Name="btAutores" Content="Autores" Grid.Column="5" HorizontalAlignment="Stretch" Grid.Row="4" FontSize="16" VerticalAlignment="Stretch" Click="btAutores_Click" />
+        <Button x:Name="btLibrosAutores" Content="Libros/Autor" Grid.Column="5" HorizontalAlignment="Stretch" Grid.Row="6" FontSize="16" VerticalAlignment="Stretch" Click="btLibrosAutores_Click" />
+        <Button x:Name="btAcercaDe" Content="Acerca de" Grid.Column="5" HorizontalAlignment="Stretch" Grid.Row="8" FontSize="16" VerticalAlignment="Stretch" Click="btAcercaDe_Click" />
+        <Image Name="imgMostrar" Grid.Column="3" Grid.Row="1" Source="libros.jpg"/>
+    </Grid>
+</Window>

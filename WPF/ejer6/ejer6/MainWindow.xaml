@@ -1,0 +1,18 @@
+﻿<Window x:Class="ejer6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ejer6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Aquamarine" Margin="0, 0, -6, -19">
+        <StackPanel HorizontalAlignment="Left" Background="#FF2B86E2" Height="221" Margin="119, 42, 0, 0" VerticalAlignment="Top" Width="268">
+            <Label x:Name="lbVentanaPrincipal" Content="Navegación entre Ventanas" Height="50" FontWeight="Bold" FontSize="20"/>
+            <TextBox x:Name="tbVentanaPrincipal" Height="56" TextWrapping="Wrap" Text="Escribe Algo Personalizado" FontSize="16"/>
+            <Button x:Name="btSecundariaOcultar" Content="Secundaria y Ocultar" Height="55" FontWeight="Bold" FontSize="18" Click="btSecundariaOcultar_Click"/>
+            <Button x:Name="btSecundariaBloquear" Content="Secundaria y Bloquear" Height="59" FontWeight="Bold" FontSize="18" Click="btSecundariaBloquear_Click"/>
+        </StackPanel>
+        <Button x:Name="btAcercade" Content="Acerca de" Height="20" Width="100" Margin="400, 300, 1, 1" Click="btAcercade_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\bin\Debug\ejer4.exe.config
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\bin\Debug\ejer4.exe
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\bin\Debug\ejer4.pdb
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\MainWindow.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\App.g.cs
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4_MarkupCompile.cache
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4_MarkupCompile.lref
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\MainWindow.baml
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.g.resources
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.exe
+C:\Users\Dani\source\repos\DIN\WPF\ejer4\ejer4\obj\Debug\ejer4.pdb

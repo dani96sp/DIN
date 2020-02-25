@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\bin\Debug\fmDibujo.exe.config
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\bin\Debug\fmDibujo.exe
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\bin\Debug\fmDibujo.pdb
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.fmDibujo.resources
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.Properties.Resources.resources
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.exe
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.pdb
+C:\Users\Dani\source\repos\DIN\fmDibujo\fmDibujo\obj\Debug\fmDibujo.fmAcercade.resources
